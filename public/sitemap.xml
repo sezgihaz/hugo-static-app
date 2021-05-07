@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://yasinsezgin.org/categories/</loc>
+  </url><url>
+    <loc>http://yasinsezgin.org/posts/my-first-post/</loc>
+  </url><url>
+    <loc>http://yasinsezgin.org/posts/</loc>
+  </url><url>
+    <loc>http://yasinsezgin.org/tags/</loc>
+  </url><url>
+    <loc>http://yasinsezgin.org/</loc>
+  </url>
+</urlset>
