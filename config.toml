@@ -1,0 +1,4 @@
+baseURL = "http://yasinsezgin.org/"
+languageCode = "en-us"
+title = "Yasin Sezgin Blog"
+theme = "ananke"
